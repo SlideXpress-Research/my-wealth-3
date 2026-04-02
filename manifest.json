@@ -1,0 +1,26 @@
+{
+  "name": "Net Worth Dashboard",
+  "short_name": "Net Worth",
+  "description": "Personal wealth tracker with live exchange rates and gold prices",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#14261a",
+  "theme_color": "#14261a",
+  "categories": ["finance", "productivity"],
+  "icons": [
+    {
+      "src": "NetWorthIcon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "NetWorthIcon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
